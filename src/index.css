@@ -14,5 +14,6 @@ code {
 
 .globo {
   position: fixed;
-  transition: position 200;
+  transition: all 0.2s;
+  font-size: 2em;
 }
